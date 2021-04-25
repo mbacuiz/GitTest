@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         val m1 = Master1
         // add line B
         val b = B()
+        // add line C
+        val c = C
     }
 }
